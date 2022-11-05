@@ -9,7 +9,3 @@ BreakerZoeBurma/BreakerZoeBurma is a ✨ special ✨ repository because its `REA
 You can click the Preview link to take a look at your changes.
 --->
 https://htet-corporation.business.site
-gcloud config set disable_usage_reporting trueEntity task = new Entity()
-{
-    Key = _db.CreateKeyFactory(gcloud + release level (optional) + component + entity + operation + positional args + flagsgcloud projects list --format="table(projectNumber,projectId,createTime.date(tz=LOCAL))"
--
